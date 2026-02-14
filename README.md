@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Samrat
 
-<!--
-**sam10001863/sam10001863** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught cybersecurity and networking enthusiast focused on building practical security and automation tools.
 
-Here are some ideas to get you started:
+## 🔐 Interests
+- Network security & analysis  
+- Vulnerability assessment  
+- Security automation  
+- Linux & Python for security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 What I Do
+- Develop custom security and networking tools  
+- Work on reconnaissance and scanning utilities  
+- Build tools to simplify common security tasks  
+- Learn through real-world projects and open-source work  
+
+## 📂 Featured Project
+**SentinelX2 – Network Recon & Analysis Tool**  
+A security-focused tool for host discovery, port scanning, and service enumeration.
+
+## 🧠 Skills
+- Cybersecurity  
+- Network Security  
+- Linux  
+- Python  
+- Computer Networking  
+- Penetration Testing  
+- Vulnerability Assessment  
+- Git  
+
+## 📌 Notes
+All projects are created for learning, research, and defensive security purposes.
+
+---ols and co
+
+⭐ Exploring cybersecurity through tools and continuous practice. 
